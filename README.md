@@ -16,6 +16,7 @@ Meu objetivo é me tornar um desenvolvedor Full Stack e conseguir minha primeira
 - HTML
 - CSS
 - JAVA SCRIPT
+- GIT/ GIT HUB
 
 ### 🎯 Metas e Objetivos
 
