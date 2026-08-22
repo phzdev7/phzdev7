@@ -10,7 +10,7 @@
 
 <p align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO\&color=00f7ff\&style=for-the-badge\&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=phzdev7\&color=00f7ff\&style=for-the-badge\&label=PROFILE+VIEWS)
 
 </p>
 
@@ -35,7 +35,7 @@
 
 Olá! Eu sou **Paulo Henrique**, estudante e desenvolvedor em formação, apaixonado por **programação, tecnologia e resolução de problemas**.
 
-Atualmente, meu principal foco é **Java e desenvolvimento Back-end**, enquanto amplio minha base em **Web, Cloud e Inteligência Artificial**.
+Atualmente, meu principal foco é **Java e desenvolvimento Back-end**, enquanto construo uma base sólida em desenvolvimento de software.
 
 Gosto de entender como as coisas funcionam por trás dos sistemas e transformar conhecimento em projetos reais.
 
@@ -48,13 +48,11 @@ Gosto de entender como as coisas funcionam por trás dos sistemas e transformar 
 [06] Repetir
 ```
 
-Meu objetivo não é apenas aprender linguagens.
-
 > **Meu objetivo é me tornar um desenvolvedor completo, capaz de construir soluções reais.**
 
 ---
 
-## 🧠 CURRENT FOCUS
+# 🧠 CURRENT FOCUS
 
 ```bash
 $ whoami
@@ -68,9 +66,7 @@ Spring Boot
 Back-end
 SQL / NoSQL
 Git & GitHub
-Docker
 Cloud
-Python
 Artificial Intelligence
 
 $ mindset
@@ -86,25 +82,19 @@ Preciso continuar evoluindo."
 ### ☕ Back-end
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,typescript" />
+<img src="https://skillicons.dev/icons?i=java,spring,python" />
 </p>
 
 ### 🌐 Front-end
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind" />
+<img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
 ### 🗄️ Databases
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
-</p>
-
-### ☁️ DevOps & Cloud
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws" />
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
 ### 🧠 AI / Data
@@ -119,13 +109,8 @@ Preciso continuar evoluindo."
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=00F7FF"/>
-<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00F7FF"/>
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED"/>
-<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
 
 </p>
 
@@ -149,7 +134,7 @@ Projeto desenvolvido para praticar lógica de programação, manipulação de da
 </p>
 
 <p align="center">
-<a href="https://github.com/SEU_USUARIO/Desafio-Lista-de-compra">
+<a href="https://github.com/phzdev7/Desafio-Lista-de-compra">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-000000?style=for-the-badge&logo=github&logoColor=00F7FF"/>
 </a>
 </p>
@@ -169,7 +154,7 @@ Projetos e desafios desenvolvidos durante minha evolução em Java, lógica, arr
 </p>
 
 <p align="center">
-<a href="https://github.com/SEU_USUARIO?tab=repositories&q=java">
+<a href="https://github.com/phzdev7?tab=repositories&q=java">
 <img src="https://img.shields.io/badge/VIEW%20PROJECTS-000000?style=for-the-badge&logo=github&logoColor=00F7FF"/>
 </a>
 </p>
@@ -215,56 +200,15 @@ STATUS: MISSION IN PROGRESS...
 
 ---
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00F7FF&text_color=FFFFFF"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=050505&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
-</p>
-
----
-
-# 📈 Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=050505&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%"/>
-</p>
-
----
-
-# 🐍 Contribution Protocol
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
-
 # 🌐 CONNECT
 
 <p align="center">
 
-<a href="https://github.com/SEU_USUARIO">
+<a href="https://github.com/phzdev7">
 <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
 </a>
 
-<a href="SEU_LINKEDIN">
+<a href="https://www.linkedin.com/in/paulo-henrique-alves-rodrigues">
 <img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
 </a>
 
@@ -277,7 +221,7 @@ STATUS: MISSION IN PROGRESS...
 <p align="center">
 
 ```text
-LEARN → BUILD → FAIL → DEBUG → IMPROVE → REPEAT
+LEARN → BUILD → IMPROVE → REPEAT
 ```
 
 ### `> "A melhor versão ainda está em desenvolvimento."`
@@ -301,3 +245,4 @@ LEARN → BUILD → FAIL → DEBUG → IMPROVE → REPEAT
 <p align="center">
   <sub>Designed & built by Paulo Henrique • 2026</sub>
 </p>
+
