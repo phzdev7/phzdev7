@@ -1,35 +1,303 @@
-### 👋 Hello, I'm Paulo
+# ⚡ PAULO HENRIQUE — SYSTEM ONLINE
 
-### 🧠 Sobre mim 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=900&color=00F7FF&center=true&vCenter=true&width=800&lines=INITIALIZING+PAULO.EXE...;SYSTEM+ONLINE+%E2%9C%93;JAVA+%7C+BACK-END+%7C+AI+%7C+CLOUD;BUILDING+THE+FUTURE%2C+ONE+LINE+AT+A+TIME;CONTINUOUS+LEARNING+MODE+%5BACTIVE%5D" alt="Typing Animation" />
+</p>
 
- Olá! Me chamo Paulo Henrique e sou estudante de programação, atualmente focado em desenvolvimento de software. Tenho grande interesse por tecnologia e gosto de entender como as coisas funcionam por trás dos sistemas que usamos no dia a dia.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:001F2F,100:00F7FF&height=180&section=header&text=PAULO%20HENRIQUE&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Future%20Engineer&descAlignY=58&descSize=16" width="100%"/>
+</p>
 
-No momento, estou estudando principalmente Java e desenvolvimento web, buscando melhorar minha lógica de programação e minhas habilidades na prática através de projetos. Gosto de aprender construindo, porque acredito que isso ajuda a fixar melhor o conteúdo.
+<p align="center">
 
-Meu objetivo é me tornar um desenvolvedor Full Stack e conseguir minha primeira oportunidade na área de tecnologia. Estou sempre buscando evoluir, aprender coisas novas e melhorar um pouco a cada dia.
+![Profile Views](https://komarev.com/ghpvc/?username=SEU_USUARIO\&color=00f7ff\&style=for-the-badge\&label=PROFILE+VIEWS)
 
+</p>
 
-### 🛠️ Tecnologias que estudo
+---
 
-- JAVA
-- SPRING
-- HTML
-- CSS
-- JAVA SCRIPT
-- GIT/ GIT HUB
+## `> SYSTEM.INFO`
 
-### 🎯 Metas e Objetivos
+```text
+╔══════════════════════════════════════════════════════════════╗
+║                    PAULO.EXE // DEVELOPER                    ║
+╠══════════════════════════════════════════════════════════════╣
+║ STATUS        : ONLINE                                       ║
+║ MODE          : LEARNING + BUILDING                         ║
+║ PRIMARY_LANG  : Java                                        ║
+║ FOCUS         : Back-end | Cloud | Artificial Intelligence  ║
+║ MINDSET       : Continuous Improvement                      ║
+║ CURRENT_MISSION: Become a complete software developer       ║
+╚══════════════════════════════════════════════════════════════╝
+```
 
-Meu objetivo principal é melhorar a cada dia e me aperfeiçoar na programação e na vida. Busco evoluir constantemente, mesmo que seja um pouco por dia, acreditando que pequenas melhorias consistentes fazem uma grande diferença ao longo do tempo.
+## 👨‍💻 Sobre Mim
 
-Quero me tornar cada vez mais disciplinado nos meus estudos, melhorar minha forma de pensar, minha capacidade de resolver problemas e desenvolver uma mentalidade mais focada e consistente.
+Olá! Eu sou **Paulo Henrique**, estudante e desenvolvedor em formação, apaixonado por **programação, tecnologia e resolução de problemas**.
 
-Acredito na ideia de evolução contínua, onde sempre há algo novo para aprender e melhorar. Por isso, espero evoluir pelo menos 1% todos os dias, construindo uma base sólida tanto como desenvolvedor quanto como pessoa.
+Atualmente, meu principal foco é **Java e desenvolvimento Back-end**, enquanto amplio minha base em **Web, Cloud e Inteligência Artificial**.
 
- 
+Gosto de entender como as coisas funcionam por trás dos sistemas e transformar conhecimento em projetos reais.
 
+```text
+[01] Aprender
+[02] Praticar
+[03] Construir
+[04] Analisar
+[05] Melhorar
+[06] Repetir
+```
 
-    
+Meu objetivo não é apenas aprender linguagens.
 
+> **Meu objetivo é me tornar um desenvolvedor completo, capaz de construir soluções reais.**
 
+---
 
+## 🧠 CURRENT FOCUS
+
+```bash
+$ whoami
+
+Paulo Henrique
+
+$ focus --current
+
+Java
+Spring Boot
+Back-end
+SQL / NoSQL
+Git & GitHub
+Docker
+Cloud
+Python
+Artificial Intelligence
+
+$ mindset
+
+"Não preciso saber tudo.
+Preciso continuar evoluindo."
+```
+
+---
+
+# ⚙️ Tech Stack
+
+### ☕ Back-end
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,spring,python,nodejs,typescript" />
+</p>
+
+### 🌐 Front-end
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,nextjs,tailwind" />
+</p>
+
+### 🗄️ Databases
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+</p>
+
+### ☁️ DevOps & Cloud
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws" />
+</p>
+
+### 🧠 AI / Data
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+---
+
+# 🛠️ Ferramentas
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00F7FF"/>
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=FF6C37"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+
+</p>
+
+---
+
+# 🚀 Projetos
+
+<table>
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🛒 Lista de Compras</h3>
+
+<p align="center">
+Projeto desenvolvido para praticar lógica de programação, manipulação de dados e fundamentos de desenvolvimento.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-COMPLETED-00F7FF?style=for-the-badge"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/SEU_USUARIO/Desafio-Lista-de-compra">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-000000?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">☕ Java Projects</h3>
+
+<p align="center">
+Projetos e desafios desenvolvidos durante minha evolução em Java, lógica, arrays, POO e desenvolvimento de aplicações.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00F7FF?style=for-the-badge"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/SEU_USUARIO?tab=repositories&q=java">
+<img src="https://img.shields.io/badge/VIEW%20PROJECTS-000000?style=for-the-badge&logo=github&logoColor=00F7FF"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🎯 CURRENT OBJECTIVES
+
+```console
+┌──[PAULO@DEV]─[~/mission]
+└─$ cat objectives.txt
+
+[✓] Aprender lógica de programação
+[✓] Desenvolver base sólida em Java
+[✓] Aprender Git & GitHub
+[✓] Desenvolver projetos práticos
+[✓] Estudar HTML & CSS
+[✓] Explorar JavaScript / TypeScript
+
+[>] Aprofundar Java
+[>] Spring Boot
+[>] APIs REST
+[>] JPA / Hibernate
+[>] SQL / NoSQL
+[>] Docker
+[>] Cloud / AWS
+[>] Python para IA
+[>] Machine Learning
+
+[ ] Construir aplicações completas
+[ ] Criar projetos maiores
+[ ] Contribuir para projetos Open Source
+[ ] Trabalhar profissionalmente com tecnologia
+[ ] Especializar em Back-end + Cloud + IA
+
+STATUS: MISSION IN PROGRESS...
+```
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=050505&title_color=00F7FF&icon_color=00F7FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=050505&title_color=00F7FF&text_color=FFFFFF"/>
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true&background=050505&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" />
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&bg_color=050505&color=00F7FF&line=00F7FF&point=FFFFFF&area=true&hide_border=true" width="100%"/>
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=7" width="100%"/>
+</p>
+
+---
+
+# 🐍 Contribution Protocol
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_USUARIO/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+# 🌐 CONNECT
+
+<p align="center">
+
+<a href="https://github.com/SEU_USUARIO">
+<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<a href="SEU_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00F7FF"/>
+</a>
+
+</p>
+
+---
+
+## 🧬 DEVELOPMENT PHILOSOPHY
+
+<p align="center">
+
+```text
+LEARN → BUILD → FAIL → DEBUG → IMPROVE → REPEAT
+```
+
+### `> "A melhor versão ainda está em desenvolvimento."`
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F7FF,50:001F2F,100:050505&height=120&section=footer&animation=fadeIn" width="100%"/>
+</p>
+
+<p align="center">
+
+**SYSTEM STATUS: ONLINE ⚡**
+
+`Java` • `Back-end` • `Cloud` • `AI` • `Continuous Learning`
+
+</p>
+
+<p align="center">
+  <sub>Designed & built by Paulo Henrique • 2026</sub>
+</p>
