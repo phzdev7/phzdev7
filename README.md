@@ -91,12 +91,6 @@ Preciso continuar evoluindo."
 <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
-### 🗄️ Databases
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
 ### 🧠 AI / Data
 
 <p align="left">
@@ -111,6 +105,8 @@ Preciso continuar evoluindo."
 
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=007ACC"/>
+<img src="https://img.shields.io/badge/Eclipse-000000?style=for-the-badge&logo=eclipseide&logoColor=2C2255"/>
 
 </p>
 
