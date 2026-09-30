@@ -196,21 +196,6 @@ O projeto também utiliza objetos `Game` para representar os dados recuperados d
 
 ---
 
-# 🛒 OUTROS PROJETOS
-
-### 🛒 Lista de Compras
-
-Projeto desenvolvido para praticar **lógica de programação, manipulação de dados e fundamentos de Java**.
-
-<p align="center">
-
-<a href="https://github.com/phzdev7/Desafio-Lista-de-compra">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-000000?style=for-the-badge&logo=github&logoColor=00FF66"/>
-</a>
-
-</p>
-
----
 
 # 📈 EVOLUTION LOG
 
