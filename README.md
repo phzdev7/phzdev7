@@ -27,9 +27,9 @@
 ║ PRIMARY_LANG   : Java                                       ║
 ║ DATABASE       : MySQL                                      ║
 ║ CONNECTION     : JDBC                                       ║
-║ FOCUS          : Back-end | Databases | APIs                ║
-║ MINDSET        : Learn by building                          ║
-║ CURRENT_MISSION: Evoluir como desenvolvedor                 ║
+║ FOCUS          : Back-end | Databases | Software Development║
+║ MINDSET        : Continuous Improvement                     ║
+║ CURRENT_MISSION: Become a complete software developer       ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
@@ -39,11 +39,11 @@
 
 Olá! Eu sou **Paulo Henrique**, estudante e desenvolvedor em formação, apaixonado por **programação, tecnologia e resolução de problemas**.
 
-Atualmente, meu principal foco é **Java e desenvolvimento Back-end**, buscando transformar cada novo conceito aprendido em projetos práticos.
+Atualmente, meu principal foco é **Java e desenvolvimento Back-end**, construindo projetos práticos para transformar o que estudo em experiência real.
 
-Tenho estudado principalmente **Java, Programação Orientada a Objetos, SQL, MySQL, JDBC, Git e GitHub**, construindo aplicações para entender na prática como diferentes partes de um sistema se conectam.
+Tenho estudado **Java, Programação Orientada a Objetos, SQL, MySQL, JDBC, Git e GitHub**, sempre buscando entender não apenas como fazer algo funcionar, mas também como as diferentes partes de uma aplicação se conectam.
 
-Recentemente desenvolvi meu primeiro projeto integrado a um **banco de dados**, saindo de aplicações que trabalhavam apenas com dados em memória para uma aplicação capaz de **armazenar, consultar, atualizar e remover informações diretamente no MySQL**.
+Um dos principais marcos da minha evolução foi desenvolver meu primeiro projeto com **Java integrado a um banco de dados MySQL**, trabalhando com operações CRUD e persistência de dados.
 
 ```text
 [01] Aprender
@@ -77,16 +77,16 @@ Git & GitHub
 Back-end
 Spring Boot
 
-$ learning-style
+$ mindset
 
 LEARN → BUILD → DEBUG → IMPROVE
 ```
 
 ---
 
-# ⚙️ Tech Stack
+# ⚙️ TECH STACK
 
-### ☕ Back-end & Java
+### ☕ Back-end
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,spring" />
@@ -104,7 +104,7 @@ LEARN → BUILD → DEBUG → IMPROVE
 <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
-### 🔧 Development Tools
+### 🔧 Tools
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
@@ -112,126 +112,102 @@ LEARN → BUILD → DEBUG → IMPROVE
 
 ---
 
-# 🛠️ Ferramentas
+# 🚀 FEATURED PROJECT
+
+## 🎮 Game Manager — Banco de Dados
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
-<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
-<img src="https://img.shields.io/badge/JDBC-000000?style=for-the-badge&logo=java&logoColor=00FF66"/>
-<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/>
-<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/Eclipse-000000?style=for-the-badge&logo=eclipseide&logoColor=2C2255"/>
-
-</p>
-
----
-
-# 🚀 Projetos
-
-## 🎮 Game Manager — Java + MySQL
-
-<p align="center">
 <img src="https://img.shields.io/badge/STATUS-COMPLETED-00FF66?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JAVA-25-ED8B00?style=for-the-badge&logo=openjdk"/>
 <img src="https://img.shields.io/badge/MYSQL-DATABASE-4479A1?style=for-the-badge&logo=mysql"/>
 <img src="https://img.shields.io/badge/JDBC-CONNECTION-00FF66?style=for-the-badge"/>
+
 </p>
 
-Meu primeiro projeto com **banco de dados integrado diretamente a uma aplicação Java**.
+<p align="center">
 
-O **Game Manager** é um sistema desenvolvido para praticar Java, orientação a objetos, SQL e integração com MySQL através de JDBC.
+<img src="https://img.shields.io/badge/CRUD-CREATE%20%7C%20READ%20%7C%20UPDATE%20%7C%20DELETE-000000?style=for-the-badge&logoColor=00FF66"/>
 
-A aplicação permite gerenciar jogos armazenados no banco de dados e realizar diferentes operações através de um menu no terminal.
+</p>
+
+### 🎯 Sobre o projeto
+
+O **Game Manager** é um sistema de gerenciamento de jogos desenvolvido em **Java**, com integração direta ao **MySQL através de JDBC**.
+
+Foi desenvolvido como um projeto prático para aprender como uma aplicação Java pode trabalhar com um banco de dados real, permitindo **cadastrar, consultar, atualizar, remover e manipular informações persistidas no MySQL**.
 
 ### 🔥 Funcionalidades
 
 ```text
-[✓] Cadastrar jogos
-[✓] Listar jogos
-[✓] Buscar jogo por código
-[✓] Comprar jogo
-[✓] Atualizar informações
-[✓] Remover jogos
-[✓] Controlar estoque
-[✓] Atualizar quantidade disponível
-[✓] Registrar horário da compra
-[✓] Gerar código para novos jogos
-[✓] Consultar informações diretamente do MySQL
+[✓] Cadastro de jogos
+[✓] Listagem de jogos
+[✓] Busca por código
+[✓] Simulação de compra
+[✓] Controle de estoque
+[✓] Atualização de informações
+[✓] Remoção de jogos
+[✓] Geração do próximo código
+[✓] Registro de horário das operações
+[✓] Persistência dos dados no MySQL
 ```
 
-### 🗄️ Estrutura do banco
+### 🗄️ Dados trabalhados
 
 ```text
-DATABASE: game_manager
-
-TABLE: games
-
-┌──────────────┬─────────────┐
-│ Campo        │ Tipo        │
-├──────────────┼─────────────┤
-│ codigo       │ BIGINT      │
-│ nome         │ VARCHAR     │
-│ preco        │ DOUBLE      │
-│ plataforma   │ VARCHAR     │
-│ estoque      │ INT         │
-└──────────────┴─────────────┘
+┌──────────────┬────────────────┐
+│ CAMPO        │ INFORMAÇÃO     │
+├──────────────┼────────────────┤
+│ codigo       │ Código do jogo │
+│ nome         │ Nome           │
+│ preco        │ Preço          │
+│ plataforma   │ Plataforma     │
+│ estoque      │ Quantidade     │
+└──────────────┴────────────────┘
 ```
 
-### 🔌 Tecnologias utilizadas
+### 🧠 Conceitos praticados
 
 ```text
-Java
-MySQL
-JDBC
-SQL
-PreparedStatement
-ResultSet
-ArrayList
-Scanner
-POO
-Git & GitHub
-```
-
-### 🧠 O que pratiquei
-
-```text
-→ Conexão Java ↔ MySQL
-→ CRUD
-→ SELECT / INSERT / UPDATE / DELETE
+→ Programação Orientada a Objetos
+→ Classes e objetos
+→ ArrayList
+→ Scanner
+→ SQL
+→ MySQL
+→ JDBC
 → PreparedStatement
 → ResultSet
-→ SQLException
-→ Manipulação de estoque
-→ Consultas SQL
-→ Organização de classes
-→ Programação Orientada a Objetos
-→ Tratamento de erros
-→ Versionamento com Git
+→ CRUD
+→ Persistência de dados
+→ Tratamento de SQLException
+→ Git & GitHub
 ```
 
+O projeto também utiliza objetos `Game` para representar os dados recuperados do banco e possui um menu interativo executado pelo terminal.
+
 <p align="center">
-<a href="https://github.com/phzdev7/CRUD_games">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-000000?style=for-the-badge&logo=github&logoColor=00FF66"/>
+
+<a href="https://github.com/phzdev7/GameManager_BancoDeDados">
+<img src="https://img.shields.io/badge/🚀%20VIEW%20PROJECT-000000?style=for-the-badge&logo=github&logoColor=00FF66"/>
 </a>
+
 </p>
 
 ---
 
-## 🛒 Lista de Compras
+# 🛒 OUTROS PROJETOS
 
-<p align="center">
-<img src="https://img.shields.io/badge/STATUS-COMPLETED-00FF66?style=for-the-badge"/>
-</p>
+### 🛒 Lista de Compras
 
 Projeto desenvolvido para praticar **lógica de programação, manipulação de dados e fundamentos de Java**.
 
-Foi um dos projetos utilizados durante minha evolução inicial na programação.
-
 <p align="center">
+
 <a href="https://github.com/phzdev7/Desafio-Lista-de-compra">
 <img src="https://img.shields.io/badge/VIEW%20PROJECT-000000?style=for-the-badge&logo=github&logoColor=00FF66"/>
 </a>
+
 </p>
 
 ---
@@ -243,7 +219,7 @@ Foi um dos projetos utilizados durante minha evolução inicial na programação
 └─$ cat evolution.log
 
 [✓] Lógica de programação
-[✓] Java básico
+[✓] Java
 [✓] Estruturas condicionais
 [✓] Estruturas de repetição
 [✓] Arrays
@@ -255,15 +231,16 @@ Foi um dos projetos utilizados durante minha evolução inicial na programação
 [✓] SQL
 [✓] MySQL
 [✓] JDBC
-[✓] Primeiro CRUD integrado ao banco
-[✓] Projeto com persistência de dados
+[✓] CRUD
+[✓] Integração Java + MySQL
+[✓] Persistência de dados
 
 [>] Aprofundar Java
 [>] Spring Boot
 [>] APIs REST
 [>] JPA / Hibernate
-[>] Arquitetura de aplicações
-[>] Desenvolvimento de sistemas maiores
+[>] Arquitetura Back-end
+[>] Desenvolvimento de aplicações maiores
 
 STATUS: EVOLUTION IN PROGRESS...
 ```
@@ -278,12 +255,13 @@ STATUS: EVOLUTION IN PROGRESS...
 
 [✓] Construir uma base sólida em Java
 [✓] Aprender lógica de programação
-[✓] Aprender Programação Orientada a Objetos
+[✓] Aprender POO
 [✓] Aprender Git & GitHub
+[✓] Trabalhar com SQL
 [✓] Trabalhar com MySQL
 [✓] Integrar Java com banco de dados
-[✓] Construir um sistema CRUD
-[✓] Criar projetos práticos
+[✓] Desenvolver um sistema CRUD
+[✓] Construir projetos práticos
 
 [>] Aprofundar Java
 [>] Spring Boot
@@ -291,8 +269,6 @@ STATUS: EVOLUTION IN PROGRESS...
 [>] JPA / Hibernate
 [>] SQL
 [>] Arquitetura Back-end
-[>] Cloud
-[>] Inteligência Artificial
 
 [ ] Construir aplicações completas
 [ ] Desenvolver projetos maiores
