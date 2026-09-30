@@ -8,11 +8,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003B1F,100:00FF66&height=180&section=header&text=PAULO%20HENRIQUE&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Future%20Engineer&descAlignY=58&descSize=16" width="100%"/>
 </p>
 
-<p align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=phzdev7\&color=00ff66\&style=for-the-badge\&label=PROFILE+VIEWS)
-
-</p>
 
 ---
 
