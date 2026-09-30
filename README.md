@@ -36,6 +36,211 @@
 
 Olá! Eu sou **Paulo Henrique**, estudante e desenvolvedor em formação, apaixonado por **programação, tecnologia e resolução de problemas**.
 
-Atualmente, meu principal foco é **Java e desenvolvimento Back-end**, enquanto construo uma base sólid
+Atualmente, meu principal foco é **Java e desenvolvimento Back-end**, enquanto construo uma base sólida em desenvolvimento de software.
 
+Gosto de entender como as coisas funcionam por trás dos sistemas e transformar conhecimento em projetos reais.
 
+```text
+[01] Aprender
+[02] Praticar
+[03] Construir
+[04] Analisar
+[05] Melhorar
+[06] Repetir
+```
+
+> **Meu objetivo é me tornar um desenvolvedor completo, capaz de construir soluções reais.**
+
+---
+
+# 🧠 CURRENT FOCUS
+
+```bash
+$ whoami
+
+Paulo Henrique
+
+$ focus --current
+
+Java
+Spring Boot
+Back-end
+MySQL
+SQL / NoSQL
+Git & GitHub
+Cloud
+Artificial Intelligence
+
+$ mindset
+
+"Não preciso saber tudo.
+Preciso continuar evoluindo."
+```
+
+---
+
+# ⚙️ Tech Stack
+
+### ☕ Back-end
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,spring,mysql,python" />
+</p>
+
+### 🌐 Front-end
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css" />
+</p>
+
+### 🧠 AI / Data
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+---
+
+# 🛠️ Ferramentas
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FF66"/>
+<img src="https://img.shields.io/badge/Eclipse-000000?style=for-the-badge&logo=eclipseide&logoColor=2C2255"/>
+
+</p>
+
+---
+
+# 🚀 Projetos
+
+<table>
+<tr>
+
+<td width="50%">
+
+<h3 align="center">🛒 Lista de Compras</h3>
+
+<p align="center">
+Projeto desenvolvido para praticar lógica de programação, manipulação de dados e fundamentos de desenvolvimento.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-COMPLETED-00FF66?style=for-the-badge"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/phzdev7/Desafio-Lista-de-compra">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-000000?style=for-the-badge&logo=github&logoColor=00FF66"/>
+</a>
+</p>
+
+</td>
+
+<td width="50%">
+
+<h3 align="center">☕ Java Projects</h3>
+
+<p align="center">
+Projetos e desafios desenvolvidos durante minha evolução em Java, lógica, arrays, POO e desenvolvimento de aplicações.
+</p>
+
+<p align="center">
+<img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF66?style=for-the-badge"/>
+</p>
+
+<p align="center">
+<a href="https://github.com/phzdev7?tab=repositories&q=java">
+<img src="https://img.shields.io/badge/VIEW%20PROJECTS-000000?style=for-the-badge&logo=github&logoColor=00FF66"/>
+</a>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+---
+
+# 🎯 CURRENT OBJECTIVES
+
+```console
+┌──[PAULO@DEV]─[~/mission]
+└─$ cat objectives.txt
+
+[✓] Aprender lógica de programação
+[✓] Desenvolver base sólida em Java
+[✓] Aprender Git & GitHub
+[✓] Desenvolver projetos práticos
+[✓] Estudar HTML & CSS
+[✓] MySQL e integração com Java
+[✓] Explorar JavaScript / TypeScript
+
+[>] Aprofundar Java
+[>] Spring Boot
+[>] APIs REST
+[>] JPA / Hibernate
+[>] SQL / NoSQL
+[>] Docker
+[>] Cloud / AWS
+[>] Python para IA
+[>] Machine Learning
+
+[ ] Construir aplicações completas
+[ ] Criar projetos maiores
+[ ] Contribuir para projetos Open Source
+[ ] Trabalhar profissionalmente com tecnologia
+[ ] Especializar em Back-end + Cloud + IA
+
+STATUS: MISSION IN PROGRESS...
+```
+
+---
+
+# 🌐 CONNECT
+
+<p align="center">
+
+<a href="https://github.com/phzdev7">
+<img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
+</a>
+
+<a href="https://www.linkedin.com/in/paulo-henrique-alves-rodrigues">
+<img src="https://img.shields.io/badge/LinkedIn-050505?style=for-the-badge&logo=linkedin&logoColor=00FF66"/>
+</a>
+
+</p>
+
+---
+
+## 🧬 DEVELOPMENT PHILOSOPHY
+
+<p align="center">
+
+```text
+LEARN → BUILD → IMPROVE → REPEAT
+```
+
+### `> "A melhor versão ainda está em desenvolvimento."`
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF66,50:003B1F,100:050505&height=120&section=footer&animation=fadeIn" width="100%"/>
+</p>
+
+<p align="center">
+
+**SYSTEM STATUS: ONLINE ⚡**
+
+`Java` • `Back-end` • `MySQL` • `Cloud` • `AI` • `Continuous Learning`
+
+</p>
+
+<p align="center">
+  <sub>Designed & built by Paulo Henrique • 2026</sub>
+</p>
