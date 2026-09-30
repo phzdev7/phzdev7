@@ -1,7 +1,7 @@
 # ⚡ PAULO HENRIQUE — SYSTEM ONLINE
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=900&color=00FF66&center=true&vCenter=true&width=800&lines=INITIALIZING+PAULO.EXE...;SYSTEM+ONLINE+%E2%9C%93;JAVA+%7C+BACK-END+%7C+AI+%7C+CLOUD;BUILDING+THE+FUTURE%2C+ONE+LINE+AT+A+TIME;CONTINUOUS+LEARNING+MODE+%5BACTIVE%5D" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2500&pause=900&color=00FF66&center=true&vCenter=true&width=800&lines=INITIALIZING+PAULO.EXE...;SYSTEM+ONLINE+%E2%9C%93;JAVA+%7C+BACK-END+%7C+DATABASE;BUILDING+REAL+PROJECTS;LEARNING+BY+BUILDING;CONTINUOUS+LEARNING+MODE+%5BACTIVE%5D" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -26,30 +26,36 @@
 ║ MODE           : LEARNING + BUILDING                        ║
 ║ PRIMARY_LANG   : Java                                       ║
 ║ DATABASE       : MySQL                                      ║
-║ FOCUS          : Back-end | Cloud | Artificial Intelligence ║
-║ MINDSET        : Continuous Improvement                     ║
-║ CURRENT_MISSION: Become a complete software developer       ║
+║ CONNECTION     : JDBC                                       ║
+║ FOCUS          : Back-end | Databases | APIs                ║
+║ MINDSET        : Learn by building                          ║
+║ CURRENT_MISSION: Evoluir como desenvolvedor                 ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
+
+---
 
 ## 👨‍💻 Sobre Mim
 
 Olá! Eu sou **Paulo Henrique**, estudante e desenvolvedor em formação, apaixonado por **programação, tecnologia e resolução de problemas**.
 
-Atualmente, meu principal foco é **Java e desenvolvimento Back-end**, enquanto construo uma base sólida em desenvolvimento de software.
+Atualmente, meu principal foco é **Java e desenvolvimento Back-end**, buscando transformar cada novo conceito aprendido em projetos práticos.
 
-Gosto de entender como as coisas funcionam por trás dos sistemas e transformar conhecimento em projetos reais.
+Tenho estudado principalmente **Java, Programação Orientada a Objetos, SQL, MySQL, JDBC, Git e GitHub**, construindo aplicações para entender na prática como diferentes partes de um sistema se conectam.
+
+Recentemente desenvolvi meu primeiro projeto integrado a um **banco de dados**, saindo de aplicações que trabalhavam apenas com dados em memória para uma aplicação capaz de **armazenar, consultar, atualizar e remover informações diretamente no MySQL**.
 
 ```text
 [01] Aprender
 [02] Praticar
 [03] Construir
-[04] Analisar
-[05] Melhorar
-[06] Repetir
+[04] Encontrar problemas
+[05] Resolver
+[06] Melhorar
+[07] Repetir
 ```
 
-> **Meu objetivo é me tornar um desenvolvedor completo, capaz de construir soluções reais.**
+> **Aprender fazendo é a minha forma de evoluir.**
 
 ---
 
@@ -63,28 +69,33 @@ Paulo Henrique
 $ focus --current
 
 Java
-Spring Boot
-Back-end
+Programação Orientada a Objetos
 MySQL
-SQL / NoSQL
+SQL
+JDBC
 Git & GitHub
-Cloud
-Artificial Intelligence
+Back-end
+Spring Boot
 
-$ mindset
+$ learning-style
 
-"Não preciso saber tudo.
-Preciso continuar evoluindo."
+LEARN → BUILD → DEBUG → IMPROVE
 ```
 
 ---
 
 # ⚙️ Tech Stack
 
-### ☕ Back-end
+### ☕ Back-end & Java
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=java,spring,mysql,python" />
+<img src="https://skillicons.dev/icons?i=java,spring" />
+</p>
+
+### 🗄️ Database
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ### 🌐 Front-end
@@ -93,10 +104,10 @@ Preciso continuar evoluindo."
 <img src="https://skillicons.dev/icons?i=html,css" />
 </p>
 
-### 🧠 AI / Data
+### 🔧 Development Tools
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,eclipse" />
 </p>
 
 ---
@@ -105,9 +116,11 @@ Preciso continuar evoluindo."
 
 <p align="center">
 
+<img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=ED8B00"/>
+<img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=4479A1"/>
+<img src="https://img.shields.io/badge/JDBC-000000?style=for-the-badge&logo=java&logoColor=00FF66"/>
 <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=F05032"/>
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FFFFFF"/>
-<img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=00FF66"/>
 <img src="https://img.shields.io/badge/Eclipse-000000?style=for-the-badge&logo=eclipseide&logoColor=2C2255"/>
 
 </p>
@@ -116,20 +129,104 @@ Preciso continuar evoluindo."
 
 # 🚀 Projetos
 
-<table>
-<tr>
-
-<td width="50%">
-
-<h3 align="center">🛒 Lista de Compras</h3>
+## 🎮 Game Manager — Java + MySQL
 
 <p align="center">
-Projeto desenvolvido para praticar lógica de programação, manipulação de dados e fundamentos de desenvolvimento.
+<img src="https://img.shields.io/badge/STATUS-COMPLETED-00FF66?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JAVA-25-ED8B00?style=for-the-badge&logo=openjdk"/>
+<img src="https://img.shields.io/badge/MYSQL-DATABASE-4479A1?style=for-the-badge&logo=mysql"/>
+<img src="https://img.shields.io/badge/JDBC-CONNECTION-00FF66?style=for-the-badge"/>
 </p>
+
+Meu primeiro projeto com **banco de dados integrado diretamente a uma aplicação Java**.
+
+O **Game Manager** é um sistema desenvolvido para praticar Java, orientação a objetos, SQL e integração com MySQL através de JDBC.
+
+A aplicação permite gerenciar jogos armazenados no banco de dados e realizar diferentes operações através de um menu no terminal.
+
+### 🔥 Funcionalidades
+
+```text
+[✓] Cadastrar jogos
+[✓] Listar jogos
+[✓] Buscar jogo por código
+[✓] Comprar jogo
+[✓] Atualizar informações
+[✓] Remover jogos
+[✓] Controlar estoque
+[✓] Atualizar quantidade disponível
+[✓] Registrar horário da compra
+[✓] Gerar código para novos jogos
+[✓] Consultar informações diretamente do MySQL
+```
+
+### 🗄️ Estrutura do banco
+
+```text
+DATABASE: game_manager
+
+TABLE: games
+
+┌──────────────┬─────────────┐
+│ Campo        │ Tipo        │
+├──────────────┼─────────────┤
+│ codigo       │ BIGINT      │
+│ nome         │ VARCHAR     │
+│ preco        │ DOUBLE      │
+│ plataforma   │ VARCHAR     │
+│ estoque      │ INT         │
+└──────────────┴─────────────┘
+```
+
+### 🔌 Tecnologias utilizadas
+
+```text
+Java
+MySQL
+JDBC
+SQL
+PreparedStatement
+ResultSet
+ArrayList
+Scanner
+POO
+Git & GitHub
+```
+
+### 🧠 O que pratiquei
+
+```text
+→ Conexão Java ↔ MySQL
+→ CRUD
+→ SELECT / INSERT / UPDATE / DELETE
+→ PreparedStatement
+→ ResultSet
+→ SQLException
+→ Manipulação de estoque
+→ Consultas SQL
+→ Organização de classes
+→ Programação Orientada a Objetos
+→ Tratamento de erros
+→ Versionamento com Git
+```
+
+<p align="center">
+<a href="https://github.com/phzdev7/CRUD_games">
+<img src="https://img.shields.io/badge/VIEW%20PROJECT-000000?style=for-the-badge&logo=github&logoColor=00FF66"/>
+</a>
+</p>
+
+---
+
+## 🛒 Lista de Compras
 
 <p align="center">
 <img src="https://img.shields.io/badge/STATUS-COMPLETED-00FF66?style=for-the-badge"/>
 </p>
+
+Projeto desenvolvido para praticar **lógica de programação, manipulação de dados e fundamentos de Java**.
+
+Foi um dos projetos utilizados durante minha evolução inicial na programação.
 
 <p align="center">
 <a href="https://github.com/phzdev7/Desafio-Lista-de-compra">
@@ -137,30 +234,39 @@ Projeto desenvolvido para praticar lógica de programação, manipulação de da
 </a>
 </p>
 
-</td>
+---
 
-<td width="50%">
+# 📈 EVOLUTION LOG
 
-<h3 align="center">☕ Java Projects</h3>
+```console
+┌──[PAULO@DEV]─[~/progress]
+└─$ cat evolution.log
 
-<p align="center">
-Projetos e desafios desenvolvidos durante minha evolução em Java, lógica, arrays, POO e desenvolvimento de aplicações.
-</p>
+[✓] Lógica de programação
+[✓] Java básico
+[✓] Estruturas condicionais
+[✓] Estruturas de repetição
+[✓] Arrays
+[✓] ArrayList
+[✓] Programação Orientada a Objetos
+[✓] Classes e objetos
+[✓] Encapsulamento
+[✓] Git & GitHub
+[✓] SQL
+[✓] MySQL
+[✓] JDBC
+[✓] Primeiro CRUD integrado ao banco
+[✓] Projeto com persistência de dados
 
-<p align="center">
-<img src="https://img.shields.io/badge/STATUS-ACTIVE-00FF66?style=for-the-badge"/>
-</p>
+[>] Aprofundar Java
+[>] Spring Boot
+[>] APIs REST
+[>] JPA / Hibernate
+[>] Arquitetura de aplicações
+[>] Desenvolvimento de sistemas maiores
 
-<p align="center">
-<a href="https://github.com/phzdev7?tab=repositories&q=java">
-<img src="https://img.shields.io/badge/VIEW%20PROJECTS-000000?style=for-the-badge&logo=github&logoColor=00FF66"/>
-</a>
-</p>
-
-</td>
-
-</tr>
-</table>
+STATUS: EVOLUTION IN PROGRESS...
+```
 
 ---
 
@@ -170,29 +276,29 @@ Projetos e desafios desenvolvidos durante minha evolução em Java, lógica, arr
 ┌──[PAULO@DEV]─[~/mission]
 └─$ cat objectives.txt
 
+[✓] Construir uma base sólida em Java
 [✓] Aprender lógica de programação
-[✓] Desenvolver base sólida em Java
+[✓] Aprender Programação Orientada a Objetos
 [✓] Aprender Git & GitHub
-[✓] Desenvolver projetos práticos
-[✓] Estudar HTML & CSS
-[✓] MySQL e integração com Java
-[✓] Explorar JavaScript / TypeScript
+[✓] Trabalhar com MySQL
+[✓] Integrar Java com banco de dados
+[✓] Construir um sistema CRUD
+[✓] Criar projetos práticos
 
 [>] Aprofundar Java
 [>] Spring Boot
 [>] APIs REST
 [>] JPA / Hibernate
-[>] SQL / NoSQL
-[>] Docker
-[>] Cloud / AWS
-[>] Python para IA
-[>] Machine Learning
+[>] SQL
+[>] Arquitetura Back-end
+[>] Cloud
+[>] Inteligência Artificial
 
 [ ] Construir aplicações completas
-[ ] Criar projetos maiores
+[ ] Desenvolver projetos maiores
+[ ] Criar uma plataforma própria
 [ ] Contribuir para projetos Open Source
 [ ] Trabalhar profissionalmente com tecnologia
-[ ] Especializar em Back-end + Cloud + IA
 
 STATUS: MISSION IN PROGRESS...
 ```
@@ -215,12 +321,12 @@ STATUS: MISSION IN PROGRESS...
 
 ---
 
-## 🧬 DEVELOPMENT PHILOSOPHY
+# 🧬 DEVELOPMENT PHILOSOPHY
 
 <p align="center">
 
 ```text
-LEARN → BUILD → IMPROVE → REPEAT
+LEARN → BUILD → DEBUG → IMPROVE → REPEAT
 ```
 
 ### `> "A melhor versão ainda está em desenvolvimento."`
@@ -237,7 +343,7 @@ LEARN → BUILD → IMPROVE → REPEAT
 
 **SYSTEM STATUS: ONLINE ⚡**
 
-`Java` • `Back-end` • `MySQL` • `Cloud` • `AI` • `Continuous Learning`
+`Java` • `MySQL` • `JDBC` • `Back-end` • `Git` • `Continuous Learning`
 
 </p>
 
