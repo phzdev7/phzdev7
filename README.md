@@ -17,13 +17,13 @@
 ║                    PAULO.EXE // DEVELOPER                    ║
 ╠══════════════════════════════════════════════════════════════╣
 ║ STATUS         : ONLINE                                      ║
-║ MODE           : LEARNING + BUILDING                        ║
-║ PRIMARY_LANG   : Java                                       ║
-║ DATABASE       : MySQL                                      ║
-║ CONNECTION     : JDBC                                       ║
-║ FOCUS          : Back-end | Databases | Software Development║
-║ MINDSET        : Continuous Improvement                     ║
-║ CURRENT_MISSION: Become a complete software developer       ║
+║ MODE           : LEARNING + BUILDING                         ║
+║ PRIMARY_LANG   : Java                                        ║
+║ DATABASE       : MySQL                                       ║
+║ CONNECTION     : JDBC                                        ║
+║ FOCUS          : Back-end | Databases | Software Development ║
+║ MINDSET        : Continuous Improvement                      ║
+║ CURRENT_MISSION: Become a complete software developer        ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
