@@ -8,8 +8,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:003B1F,100:00FF66&height=180&section=header&text=PAULO%20HENRIQUE&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Problem%20Solver%20%7C%20Future%20Engineer&descAlignY=58&descSize=16" width="100%"/>
 </p>
 
-
-
 ---
 
 ## `> SYSTEM.INFO`
@@ -108,7 +106,7 @@ LEARN → BUILD → DEBUG → IMPROVE
 
 ---
 
-# 🚀 FEATURED PROJECT
+# 🚀 FEATURED PROJECTS
 
 ## 🎮 Game Manager — Banco de Dados
 
@@ -118,12 +116,6 @@ LEARN → BUILD → DEBUG → IMPROVE
 <img src="https://img.shields.io/badge/JAVA-25-ED8B00?style=for-the-badge&logo=openjdk"/>
 <img src="https://img.shields.io/badge/MYSQL-DATABASE-4479A1?style=for-the-badge&logo=mysql"/>
 <img src="https://img.shields.io/badge/JDBC-CONNECTION-00FF66?style=for-the-badge"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/CRUD-CREATE%20%7C%20READ%20%7C%20UPDATE%20%7C%20DELETE-000000?style=for-the-badge&logoColor=00FF66"/>
 
 </p>
 
@@ -148,20 +140,6 @@ Foi desenvolvido como um projeto prático para aprender como uma aplicação Jav
 [✓] Persistência dos dados no MySQL
 ```
 
-### 🗄️ Dados trabalhados
-
-```text
-┌──────────────┬────────────────┐
-│ CAMPO        │ INFORMAÇÃO     │
-├──────────────┼────────────────┤
-│ codigo       │ Código do jogo │
-│ nome         │ Nome           │
-│ preco        │ Preço          │
-│ plataforma   │ Plataforma     │
-│ estoque      │ Quantidade     │
-└──────────────┴────────────────┘
-```
-
 ### 🧠 Conceitos praticados
 
 ```text
@@ -180,8 +158,6 @@ Foi desenvolvido como um projeto prático para aprender como uma aplicação Jav
 → Git & GitHub
 ```
 
-O projeto também utiliza objetos `Game` para representar os dados recuperados do banco e possui um menu interativo executado pelo terminal.
-
 <p align="center">
 
 <a href="https://github.com/phzdev7/GameManager_BancoDeDados">
@@ -192,6 +168,64 @@ O projeto também utiliza objetos `Game` para representar os dados recuperados d
 
 ---
 
+## 🚀 PHANTOM 7 — Jogo 2D
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-FFD700?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JAVA-25-ED8B00?style=for-the-badge&logo=openjdk"/>
+<img src="https://img.shields.io/badge/SWING%20%2F%20AWT-GRAPHICS-00FF66?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/GAME-2D-000000?style=for-the-badge"/>
+
+</p>
+
+### 🎯 Sobre o projeto
+
+O **PHANTOM 7** é um jogo 2D desenvolvido em **Java** como projeto prático para aplicar conceitos de programação e desenvolvimento de aplicações gráficas.
+
+O projeto está **em desenvolvimento** e está sendo construído passo a passo durante meus estudos.
+
+### 🧠 Conceitos praticados
+
+```text
+→ Java
+→ Programação Orientada a Objetos
+→ Java Swing
+→ Java AWT
+→ Eventos de teclado
+→ Manipulação de imagens
+→ Movimentação do jogador
+→ Organização de classes
+→ Git & GitHub
+```
+
+### 🚧 Status
+
+```text
+STATUS: IN DEVELOPMENT...
+
+[✓] Estrutura inicial
+[✓] Janela do jogo
+[✓] Fase inicial
+[✓] Player
+[✓] Movimentação
+[✓] Recursos gráficos
+
+[>] Novas funcionalidades
+[>] Evolução da jogabilidade
+[>] Novas fases
+[>] Melhorias no sistema do jogo
+```
+
+<p align="center">
+
+<a href="https://github.com/phzdev7/PHANTOM7">
+<img src="https://img.shields.io/badge/🚀%20VIEW%20PROJECT-000000?style=for-the-badge&logo=github&logoColor=00FF66"/>
+</a>
+
+</p>
+
+---
 
 # 📈 EVOLUTION LOG
 
@@ -215,6 +249,7 @@ O projeto também utiliza objetos `Game` para representar os dados recuperados d
 [✓] CRUD
 [✓] Integração Java + MySQL
 [✓] Persistência de dados
+[✓] Desenvolvimento de jogo 2D em Java
 
 [>] Aprofundar Java
 [>] Spring Boot
@@ -243,6 +278,7 @@ STATUS: EVOLUTION IN PROGRESS...
 [✓] Integrar Java com banco de dados
 [✓] Desenvolver um sistema CRUD
 [✓] Construir projetos práticos
+[✓] Desenvolver um jogo 2D em Java
 
 [>] Aprofundar Java
 [>] Spring Boot
@@ -305,5 +341,5 @@ LEARN → BUILD → DEBUG → IMPROVE → REPEAT
 </p>
 
 <p align="center">
-  <sub>Designed & built by Paulo Henrique • 2026</sub>
+ <sub>Designed & built by Paulo Henrique • 2026</sub>
 </p>
